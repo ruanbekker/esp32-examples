@@ -1,6 +1,8 @@
 # Setup NodeMCU ESP32
 
-### Install
+### Install 
+
+This is based for Windows, for Mac I had some issues, which can be resolved with [this](https://github.com/espressif/arduino-esp32/issues/4408) and install pyserial.
 
 Install Arduino:
 - https://www.arduino.cc/en/software
