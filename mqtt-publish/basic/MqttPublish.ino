@@ -42,7 +42,7 @@ void loop(){
   if((wifiMulti.run() == WL_CONNECTED)) {
 
     // payload
-    String payload = "{\"moisture_level\":" + String(message) + "}";
+    String payload = "{\"message\":" + String(message) + "}";
 
     // publish to mqtt broker
     Serial.println("publishing to mqtt broker");
