@@ -12,3 +12,5 @@ ESP32 Examples
 - [@paddycube](https://github.com/PaddyCube/ESP32-Examples)
 - [@nkolban](https://github.com/nkolban/esp32-snippets)
 - [@aws-iot](https://github.com/aws-samples/aws-iot-esp32-arduino-examples)
+- [@project-hub](https://create.arduino.cc/projecthub/projects/tags/pump)
+- [@arduinogetstarted](https://arduinogetstarted.com/tutorials/arduino-controls-pump)
