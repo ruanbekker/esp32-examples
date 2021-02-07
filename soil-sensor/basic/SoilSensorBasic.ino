@@ -4,6 +4,7 @@
  * https://diyi0t.com/soil-moisture-sensor-tutorial-for-arduino-and-esp8266/
  */
 
+//#define SensorPin 15
 #define SensorPin 4
 
 void setup() {
